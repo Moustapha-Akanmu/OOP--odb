@@ -84,6 +84,8 @@ class connectMsServer():
         #use Insert
         # the cursor cannot make transaction (go to documentation to check)
 
+        def crea
+
     # Read all entries
         #fetch all record and return as a list of Dictionaries
 
